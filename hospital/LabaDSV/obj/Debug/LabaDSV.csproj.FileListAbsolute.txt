@@ -1,0 +1,142 @@
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\View\MainView.baml
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\App.g.cs
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.cache
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV.g.resources
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV.Properties.Resources.resources
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.lref
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\View\MainResources.baml
+C:\Users\Rasif\Desktop\LabaDSV\LabaDSV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rasif\Desktop\По учебе\Учеба\Лабораторные по тер веру\LabaDSV\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\По учебе\Учеба\Лабораторные по тер веру\LabaDSV\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\По учебе\Учеба\Лабораторные по тер веру\LabaDSV\LabaDSV\obj\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\View\MainView.baml
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\App.g.cs
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.cache
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.lref
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\View\MainResources.baml
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV.g.resources
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV.Properties.Resources.resources
+C:\Users\Rasif\Desktop\RandomsLabaThird\LabaDSV\obj\Debug\LabaDSV.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\LabaDSV.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\View\MainResources.baml
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\View\MainView.baml
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\App.g.cs
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.cache
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\LabaDSV.g.resources
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\LabaDSV.Properties.Resources.resources
+C:\Users\Rasif\Desktop\По учебе\По шарпам Frame\LabaDSV\obj\Debug\LabaDSV.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\View\MainResources.baml
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\View\MainView.baml
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\App.g.cs
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.cache
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.g.resources
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.Properties.Resources.resources
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rasif\Desktop\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.lref
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.csprojResolveAssemblyReference.cache
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\View\MainView.baml
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\View\MainView.g.cs
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\App.g.cs
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.cache
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV_MarkupCompile.lref
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\View\MainResources.baml
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.g.resources
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.Properties.Resources.resources
+C:\Users\Rasif\Desktop\Учеба\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.csproj.GenerateResource.Cache
+C:\Users\Rasif\Desktop\Учеба (3-й курс, второй семестр)\C#\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\Учеба (3-й курс, второй семестр)\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\Учеба (3-й курс, второй семестр)\C#\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.pdb
+C:\Users\Rasif\Desktop\Программирование\C# (второй семестр)\Вторая лабораторная работа\LabaDSV\bin\Debug\LabaDSV.exe.config
+C:\Users\Rasif\Desktop\Программирование\C# (второй семестр)\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.exe
+C:\Users\Rasif\Desktop\Программирование\C# (второй семестр)\Вторая лабораторная работа\LabaDSV\obj\Debug\LabaDSV.pdb
